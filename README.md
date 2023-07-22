@@ -46,3 +46,6 @@ app.delete('/users/:id', async (req, res) => {
   res.json(result);
 });
 ```
+
+- pgAdmin으로 확인
+  ![](https://velog.velcdn.com/images/nu11/post/14b58753-6a48-4fc8-a83a-d7ec1c7ab89d/image.png)
